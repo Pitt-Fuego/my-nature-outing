@@ -20,7 +20,7 @@ Learn more about our Nature Study project: [HERE](https://sjquigley.github.io/mu
 
 ## Get started!
 
-1. Go to repository My Nature Outing repository: [Here](https://github.com/Open-Fuego/my-nature-outing)
+1. Go to repository My Nature Outing repository: [Here](https://github.com/Pitt-Fuego/my-nature-outing)
 
 2. Click "Code" then "Download ZIP" to your local computer. 
 
@@ -42,5 +42,5 @@ Learn more about our Nature Study project: [HERE](https://sjquigley.github.io/mu
 
 
 
-Check out our other cool coding tools [HERE](https://open-fuego.github.io/Open-Fuego-Coding-Tools/)
+Check out our other cool coding tools [HERE](https://pitt-fuego.github.io/Pitt-Fuego-Coding-Tools/)
 
